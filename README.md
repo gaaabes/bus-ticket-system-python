@@ -2,7 +2,7 @@
 
 Sistema desenvolvido em Python para simular a venda de passagens de ônibus entre diferentes cidades.
 
-Este projeto foi criado como atividade da disciplina de Programação do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de praticar conceitos fundamentais da linguagem Python.
+Este projeto foi criado como atividade da disciplina de algoritmo e lógica de programação do curso de Análise e Desenvolvimento de Sistemas, com o objetivo de praticar conceitos fundamentais da linguagem Python.
 
 ---
 
